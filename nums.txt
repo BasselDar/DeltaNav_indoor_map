@@ -1,0 +1,37 @@
+401 Dean
+402 Secretary
+403 Vice Dean
+405 Library
+406 Control
+407 Control
+408 Teaching assistant (Basic Computer & scince Dept)
+409 Teaching assistant (A.I Dept)
+410 Lab. 1
+411 Lab. 2
+412 Lab. 3
+413 Quality assurance Unit
+414 Lab. 4
+415 Lab (Network & IOT)
+416 Lab (Robotic & Project)
+417 Lab (Digital Logic and Embedded )
+418 Work-Based Project Lab. 1 
+419 A.I Departement Head
+420 Lab.5
+421 Lab.6
+422 Cyber-Security Departement Head
+423 Lab (Bioinformatics & Healthy informatics)
+424 Work-Based Project Lab. 2
+425 
+426 Teaching assistant (Bio and security Dept)
+427 Teaching Staff
+428 Lab. 7
+429 Teaching Staff
+430 Hall 7
+431 Utilities
+432 Teaching Staff
+433 Bioinformatics Department
+434 Hall 8
+435 Teaching Staff
+436 E-Learning Unit
+437 Academic Guidance Unit
+438 Teaching Staff

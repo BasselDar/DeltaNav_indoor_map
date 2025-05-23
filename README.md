@@ -25,8 +25,8 @@ An interactive indoor navigation system built with React and TypeScript, featuri
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd indoor_web
+git clone https://github.com/BasselDar/DeltaNav_indoor_map.git
+cd DeltaNav_indoor_map
 ```
 
 2. Install dependencies:
